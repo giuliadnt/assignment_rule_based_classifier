@@ -1,22 +1,22 @@
-status,text
-Unknown,immunizations recommended 1 synagis rsv prophylaxis should be considered from **month only ** through **month only 958** for infants who meet any of the following 3 criteria i born at less than 32 weeks ii born between 32 and 35 weeks with 2 of the following day care during rsv season a smoker in the household neuromuscular disease airway abnormalities or school age siblings or iii with chronic lung disease
-Unknown,he has less than 10-pack-year smoking history however he did smoke a pipe on a daily basis up until **2145**
-Unknown,6 immunizations recommended synagis rsv prophylaxis should be considered from **month only 359** through **month only 547** for infants who meet any of the following three criteria 1 born at less than 32 weeks 2 born between 32 and 35 weeks with two of the following risk factors day care during rsv season a smoker in the household neuromuscular disease airway abnormalities or school age siblings or 3 with chronic lung disease
-Unknown,immunizations recommended synagis rsv prophylaxis should be considered from **month only 359** through **month only 547** for infants who meet any of the following three criteria 1 born at less than 32 weeks 2 born between 32 and 35 weeks with plans for daycare during rsv season with a smoker in the household or with preschool siblings or 3 with chronic lung disease
-Former Smoker,she smoked up until current admission
-Unknown,synagis rsv prophylaxis should be considered from **month only ** through **month only 958** for infants who meet any of the following 4 criteria 1 born at less than 32 weeks 2 born between 32 and 35 weeks with 2 of the following daycare nursery during rsv season a smoker in the household neuromuscular disease airway abnormalities or school-aged siblings 3 chronic lungs disease or 4 hemodynamically significant congenital heart disease
-Former Smoker,per dr**name ni 105962** note in omr he quit smoking 25 years ago
-Non Smoker,all nkda medications prior to admission occasionally tylenol for headache social hx nonsmoker one drink/night
-Former Smoker,he smoked a pack a day for 40 years and quit in **2123**
-Unknown,2 born between 32 and 35 and 0/7 weeks with two of the following day care during rsv season a smoker in the household neuromuscular disease airway abnormalities or school age siblings
-Unknown,the patient had been smoking crack for three days prior to admission
-Former Smoker,quit smoking 25 years ago
-Smoker,social history the patient smokes half to one pack per day
-Former Smoker,>60pk yr smoking quit ~25 yrs ago
-Former Smoker,former pipe and cigar smoker
-Former Smoker,former smoker quit 20 years ago
-Former Smoker,he is a retired accountant who quit smoking 20 years ago
-Smoker,past medical history hypertension question of bipolar disorder vs schizophrenia s/p cholecystectomy/tubal ligation type ii diabetes mellitus ?coronary artery disease social history active smoker 1ppd family history unknown physical exam bp 105/52 hr 75 general intubated and sedated skin unremarkable neck no jvd carotids 2+ bilaterally chest lungs clear bilaterally heart regular rate and rhythm normal s1s2 no murmur or rub abdomen soft nontender non-distended normoactive bowel sounds ext warm no edema neuro intubated sedated pulses 1+ distally pertinent results **2194-1-26** chest/abd cta ct of the chest with intravenous contrast an aortic dissection extends from the medial aspect of the left subclavian artery posteriorly to the diaphragmatic aperture
-Former Smoker,he smoked cigarettes for 60 years 1 pack per day
-Unknown,it is crucial for your breathing and your heart that you do not start smoking again
-Unknown,smoking causes narrowing of your blood vessels which in turn decreases circulation
+id,status
+25411,Unknown
+35305,Unknown
+21910,Unknown
+12516,Unknown
+34014,Former Smoker
+32750,Unknown
+51000,Former Smoker
+29869,Non Smoker
+18687,Former Smoker
+32978,Unknown
+20403,Unknown
+6698,Former Smoker
+20173,Smoker
+20796,Former Smoker
+7256,Former Smoker
+36155,Former Smoker
+53596,Former Smoker
+35495,Smoker
+51831,Former Smoker
+13777,Unknown
+49089,Unknown

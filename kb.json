@@ -1,0 +1,13 @@
+{
+  "PATTERNS": {
+    "timespan": "for (\\w+)? years",
+    "quantity": "\\d+pp(d|y)|pack(s)? per (day|year)",
+    "is_past": "was (a)?",
+    "is_present": "is a|restarted"
+  },
+  "LEXICON": {
+    "former":  ["former", "previously", "ago"],
+    "ongoing": ["current", "currently", "active", "still"],
+    "frequency": ["daily", "occasionally"]
+  }
+}
